@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194044998087",
+    "project_id": "carbnb-18486",
+    "storage_bucket": "carbnb-18486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194044998087:android:63b466add0ddf3222be9e2",
+        "android_client_info": {
+          "package_name": "com.example.carbnb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGgCDpNseC1ni_EnO7FGwtVqno2ab0Gwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
